@@ -1,47 +1,47 @@
-# 🎓 Professional Training & Certifications Ledger
+# 🎓 Federal Training & Course Certificates Ledger
 
 A centralized showcase of my continuous education, compliance training, and critical infrastructure cybersecurity development.
 
 ---
 
-## 🔒 CDSE (Center for Development of Security Excellence)
+## 🔒 CDSE / DOD
 
 * **Counterintelligence Awareness and Reporting for DOD** — [👁️ View Certificate](https://drive.google.com/file/d/1vhPRn_H0TlfBEdPmilIgDHQ9tUiJhymf/preview)
-* **Counterintelligence Awareness and Security Brief** — [👁️ View Certificate](https://drive.google.com/file/d/1s06Ybydyfxk76faKjgBHorJ_7GeoHi_f/preview)
-* **Cybersecurity Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/19C5lay3DWrJoiXARADMDkhUb8QrcyWkR/preview)
-* **DOD Initial Orientation and Awareness Training** — [👁️ View Certificate](https://drive.google.com/file/d/1-Gh8BtvCtDqvZOdShd04UlQj_v0VnAGl/preview)
-* **Insider Threat Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/1uEEc45SU7aHqRV_5JcAkxyj1tJc9ob4o/preview)
-* **OPSEC Awareness for Military Members, DoD Employees, and Contractors** — [👁️ View Certificate](https://drive.google.com/file/d/16Z9E5DaZQlN94fy6YoF_O44lRReJCd0m/preview)
+* **Counterintelligence Awareness and Security Brief** — [👁️ View Certificate](https://drive.google.com/file/d/19C5lay3DWrJoiXARADMDkhUb8QrcyWkR/preview)
+* **Cybersecurity Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/1-Gh8BtvCtDqvZOdShd04UlQj_v0VnAGl/preview)
+* **DOD Initial Orientation and Awareness Training** — [👁️ View Certificate](https://drive.google.com/file/d/1uEEc45SU7aHqRV_5JcAkxyj1tJc9ob4o/preview)
+* **Insider Threat Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/16Z9E5DaZQlN94fy6YoF_O44lRReJCd0m/preview)
+* **OPSEC Awareness for Military Members, DoD Employees, and Contractors** — [👁️ View Certificate](https://drive.google.com/file/d/1s06Ybydyfxk76faKjgBHorJ_7GeoHi_f/preview)
 
 ---
 
-## 🛡️ CISA (Cybersecurity and Infrastructure Security Agency)
+## 🛡️ CISA / DHS and INL / DOE
 
 * **201W-06 ICS Cybersecurity Threats** — [👁️ View Certificate](https://drive.google.com/file/d/1XgJ6iqA0VhRdqRen-5zwAX49hginGrcf/preview)
-* **210W-10 Mapping IT Defense-in-Depth Security Solutions to ICS - Part 1** — [👁️ View Certificate](https://drive.google.com/file/d/1aCdxLeVIUKMY3GzLjVbf-bxbUP94Ksih/preview)
-* **210W-10 Mapping IT Defense-in-Depth Security Solutions to ICS - Part 1 (Duplicate Entry)** — [👁️ View Certificate](https://drive.google.com/file/d/1qK5l1Y8VnF9O3v1pCuGg-kJ6AF6zY-8g/preview)
-* **210W-07 ICS Cybersecurity Vulnerabilities** — [👁️ View Certificate](https://drive.google.com/file/d/18CqFxmK0lJlKA37d0LjkDnmFZUwfiqRi/preview)
-* **210W-05 ICS Cybersecurity Risk** — [👁️ View Certificate](https://drive.google.com/file/d/1QXy5qFAmaC_R2Yon7yypOijIRbNlVYJH/preview)
-* **210-09 Attack Methodologies in IT & ICS** — [👁️ View Certificate](https://drive.google.com/file/d/1CqzRWD0MGY56oXnlDMqcXis9P8AuXAdC/preview)
-* **210W-03 Common ICS Components** — [👁️ View Certificate](https://drive.google.com/file/d/1dKm3I-h4C_CWrxW9kXjHFd-hsTz74d1L/preview)
-* **210W-04 Cybersecurity Within IT and ICS Domains** — [👁️ View Certificate](https://drive.google.com/file/d/1lIPdajucrjxuy8gJa9MAL9HMSe2E_NcZ/preview)
-* **ICS Cybersecurity Landscape for Managers** — [👁️ View Certificate](https://drive.google.com/file/d/1BSXZy7MFUu78gXnv1o6k0ikolrz1fCu4/preview)
-* **210W-08 ICS Cybersecurity Consequences** — [👁️ View Certificate](https://drive.google.com/file/d/19YjbOzNOmDAZWOVnP0sV8qWm9LbiUiHN/preview)
-* **100W Industrial Control Systems (ICS) Cybersecurity Practices** — [👁️ View Certificate](https://drive.google.com/file/d/16_Kk6bd18Zsb5BkRoiHphopkaDYMUosO/preview)
-* **210W-01 Differences in Deployments of Industrial Control Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1vtUsnKb4ewwmBsQLVSu2SRdGTJli3Sif/preview)
-* **210W-02 Influence of IT Components on Industrial Control Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1ArDU3SLhs_u6M05OLxp3PL2vDArXEj5E/preview)
+* **210W-10 Mapping IT Defense-in-Depth Security Solutions to ICS - Part I** — [👁️ View Certificate](https://drive.google.com/file/d/1qK5l1Y8VnF9O3v1pCuGg-kJ6AF6zY-8g/preview)
+* **210W-10 Mapping IT Defense-in-Depth Security Solutions to ICS - Part II** — [👁️ View Certificate](https://drive.google.com/file/d/18CqFxmK0lJlKA37d0LjkDnmFZUwfiqRi/preview)
+* **210W-07 ICS Cybersecurity Vulnerabilities** — [👁️ View Certificate](https://drive.google.com/file/d/1QXy5qFAmaC_R2Yon7yypOijIRbNlVYJH/preview)
+* **210W-05 ICS Cybersecurity Risk** — [👁️ View Certificate](https://drive.google.com/file/d/1CqzRWD0MGY56oXnlDMqcXis9P8AuXAdC/preview)
+* **210-09 Attack Methodologies in IT & ICS** — [👁️ View Certificate](https://drive.google.com/file/d/1dKm3I-h4C_CWrxW9kXjHFd-hsTz74d1L/preview)
+* **210W-03 Common ICS Components** — [👁️ View Certificate](https://drive.google.com/file/d/1lIPdajucrjxuy8gJa9MAL9HMSe2E_NcZ/preview)
+* **210W-04 Cybersecurity Within IT and ICS Domains** — [👁️ View Certificate](https://drive.google.com/file/d/1BSXZy7MFUu78gXnv1o6k0ikolrz1fCu4/preview)
+* **ICS Cybersecurity Landscape for Managers** — [👁️ View Certificate](https://drive.google.com/file/d/19YjbOzNOmDAZWOVnP0sV8qWm9LbiUiHN/preview)
+* **210W-08 ICS Cybersecurity Consequences** — [👁️ View Certificate](https://drive.google.com/file/d/16_Kk6bd18Zsb5BkRoiHphopkaDYMUosO/preview)
+* **100W Industrial Control Systems (ICS) Cybersecurity Practices** — [👁️ View Certificate](https://drive.google.com/file/d/1vtUsnKb4ewwmBsQLVSu2SRdGTJli3Sif/preview)
+* **210W-01 Differences in Deployments of Industrial Control Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1ArDU3SLhs_u6M05OLxp3PL2vDArXEj5E/preview)
+* **210W-02 Influence of IT Components on Industrial Control Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1aCdxLeVIUKMY3GzLjVbf-bxbUP94Ksih/preview)
 
 ---
 
-## ⛰️ FEMA (Federal Emergency Management Agency)
+## ⛰️ FEMA / DHS
 
 * **IS-100 Introduction to Incident Command** — [👁️ View Certificate](https://drive.google.com/file/d/1y-Evyx39MWVTLrWYdr_5SbYddjNtquIL/preview)
-* **IS-200 Basic Incident Command System** — [👁️ View Certificate](https://drive.google.com/file/d/1qm1MnK2AI5QfnSs_Wm9WIMRd2YhZUjbv/preview)
-* **IS-700 An Introduction to the National Incident Management System** — [👁️ View Certificate](https://drive.google.com/file/d/1QoaQla8gUbHWFYDMVNCWlSE_XqW3d47R/preview)
+* **IS-200 Basic Incident Command System** — [👁️ View Certificate](https://drive.google.com/file/d/1QoaQla8gUbHWFYDMVNCWlSE_XqW3d47R/preview)
+* **IS-700 An Introduction to the National Incident Management System** — [👁️ View Certificate](https://drive.google.com/file/d/1qm1MnK2AI5QfnSs_Wm9WIMRd2YhZUjbv/preview)
 
 ---
 
-## 🤠 TEEX (Texas A&M Engineering Extension Service)
+## 🤠 TEEX / FEMA / DHS
 
 * **AWR136 Developing Cybersecurity Resiliency for Everyone** — [👁️ View Certificate](https://drive.google.com/file/d/1wx_-UScQ7n8G2faDVsLLo1_46Svq9CKN/preview)
 * **AWR376 Understanding Targeted Cyber Attacks** — [👁️ View Certificate](https://drive.google.com/file/d/1koIJq4QaPR063TjB-4WU9GP-5wuF5aTt/preview)
@@ -55,10 +55,10 @@ A centralized showcase of my continuous education, compliance training, and crit
 
 ---
 
-## 🏛️ WBDG (Whole Building Design Guide)
+## 🏛️ WBDG / FEMP / DOE
 
 * **Intersection between IT and OT** — [👁️ View Certificate](https://drive.google.com/file/d/1fN4bsxNoiyAa1NkUG38WclC_IMi8vg2_/preview)
-* **Implementing Microgrids in the Federal Sector: Scoping** — [👁️ View Certificate](https://drive.google.com/file/d/1DXAPc470BUm_aZ7zmzw1TASazZimYO6o/preview)
-* **Implementing Microgrids in the Federal Sector: Introduction to Microgrids** — [👁️ View Certificate](https://drive.google.com/file/d/1h7iv7xj3nwebFl2nNum9DrQDe5Y1RC_C/preview)
-* **Implementing Microgrids in the Federal Sector: Planning for Microgrid Implementation** — [👁️ View Certificate](https://drive.google.com/file/d/1SnrzT9DzSBQ3S5o80y7Ceil_n-BaMH8s/preview)
-* **Implementing Microgrids in the Federal Sector: Microgrid Conceptual Design** — [👁️ View Certificate](https://drive.google.com/file/d/1gzuxOHMLnymJYHwn1o4gOct5YFB1hqqF/preview)
+* **Implementing Microgrids in the Federal Sector: Scoping of Microgrids** — [👁️ View Certificate](https://drive.google.com/file/d/1h7iv7xj3nwebFl2nNum9DrQDe5Y1RC_C/preview)
+* **Implementing Microgrids in the Federal Sector: Introduction to Microgrids** — [👁️ View Certificate](https://drive.google.com/file/d/1SnrzT9DzSBQ3S5o80y7Ceil_n-BaMH8s/preview)
+* **Implementing Microgrids in the Federal Sector: Planning for Microgrid Implementation** — [👁️ View Certificate](https://drive.google.com/file/d/1gzuxOHMLnymJYHwn1o4gOct5YFB1hqqF/preview)
+* **Implementing Microgrids in the Federal Sector: Microgrid Conceptual Design** — [👁️ View Certificate](https://drive.google.com/file/d/1DXAPc470BUm_aZ7zmzw1TASazZimYO6o/preview)
