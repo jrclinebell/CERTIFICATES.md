@@ -59,6 +59,6 @@ A centralized showcase of my continuous education, compliance training, and crit
 
 * **Intersection between IT and OT** — [👁️ View Certificate](https://drive.google.com/file/d/1fN4bsxNoiyAa1NkUG38WclC_IMi8vg2_/preview)
 * **Implementing Microgrids in the Federal Sector: Introduction to Microgrids** — [👁️ View Certificate](https://drive.google.com/file/d/1SnrzT9DzSBQ3S5o80y7Ceil_n-BaMH8s/preview)
-* * **Implementing Microgrids in the Federal Sector: Scoping of Microgrids** — [👁️ View Certificate](https://drive.google.com/file/d/1h7iv7xj3nwebFl2nNum9DrQDe5Y1RC_C/preview)
+* **Implementing Microgrids in the Federal Sector: Scoping of Microgrids** — [👁️ View Certificate](https://drive.google.com/file/d/1h7iv7xj3nwebFl2nNum9DrQDe5Y1RC_C/preview)
 * **Implementing Microgrids in the Federal Sector: Planning for Microgrid Implementation** — [👁️ View Certificate](https://drive.google.com/file/d/1gzuxOHMLnymJYHwn1o4gOct5YFB1hqqF/preview)
 * **Implementing Microgrids in the Federal Sector: Microgrid Conceptual Design** — [👁️ View Certificate](https://drive.google.com/file/d/1DXAPc470BUm_aZ7zmzw1TASazZimYO6o/preview)
