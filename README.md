@@ -53,6 +53,7 @@ A centralized showcase of my continuous education, compliance training, and crit
 * **AWR169 Introduction to Cyber Incident Management** — [👁️ View Certificate](https://drive.google.com/file/d/19tTEMxhd2Vs5J1lSRrzZYifmDPufDF2h/preview)
 * **PER371 Cybersecurity Incident Response and Management** — [👁️ View Certificate](https://drive.google.com/file/d/1tA4NGIcscTm0Ca2Td5vn18j0d5oxetbi/preview)
 * **MGT345  Disaster Management for Electric Power Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1oCQc10AGo0MdgcGCiYVEe22RWqUS_S9T/preview)
+* **AWR176 Disaster Recovery for Information Systems** — [👁️ View Certificate](https://drive.google.com/file/d/14JdEwiHzywsc59eNn1CpvVVN8OtN6prT/preview)
 ---
 
 ## 🏛️ WBDG / FEMP / DOE
