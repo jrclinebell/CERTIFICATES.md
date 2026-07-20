@@ -55,6 +55,7 @@ A centralized showcase of my continuous education, compliance training, and crit
 * **MGT345 Disaster Management for Electric Power Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1oCQc10AGo0MdgcGCiYVEe22RWqUS_S9T/preview)
 * **AWR176 Disaster Recovery for Information Systems** — [👁️ View Certificate](https://drive.google.com/file/d/14JdEwiHzywsc59eNn1CpvVVN8OtN6prT/preview)
 * **AWR174 Cyber Ethics** — [👁️ View Certificate](https://drive.google.com/file/d/1Rr7_YHSy-QtxiWZMcy1L1hId95OMDDmm/preview)
+* **AWR177 Cybersecurity Risk Management** — [👁️ View Certificate](https://drive.google.com/file/d/1CmaNe0FTKrYDgd7uQYP0tMvg28r2Mg0v/preview)
 ---
 
 ## 🏛️ WBDG / FEMP / DOE
