@@ -44,18 +44,21 @@ A centralized showcase of my continuous education, compliance training, and crit
 ## 🤠 TEEX / FEMA / DHS
 
 * **AWR136 Developing Cybersecurity Resiliency for Everyone** — [👁️ View Certificate](https://drive.google.com/file/d/1wx_-UScQ7n8G2faDVsLLo1_46Svq9CKN/preview)
-* **AWR376 Understanding Targeted Cyber Attacks** — [👁️ View Certificate](https://drive.google.com/file/d/1koIJq4QaPR063TjB-4WU9GP-5wuF5aTt/preview)
-* **MGT384 Physical and Cybersecurity for Critical Infrastructure** — [👁️ View Certificate](https://drive.google.com/file/d/1NNxN_fBoaLaQ66Ai_HZehxk5_LTa5vjb/preview)
-* **MGT384 Preparing for Cyber Attacks and Incidents** — [👁️ View Certificate](https://drive.google.com/file/d/1_3E58tpGwXapaD0FwIPqWGyGpdIOCo4I/preview)
-* **MGT315 Conducting Risk Assessments for Critical Community Assets** — [👁️ View Certificate](https://drive.google.com/file/d/1WcpmOi3lN2AykGg0vN5_AjLhy4DfItW6/preview)
-* **AWR395 Cybersecurity in the Workplace** — [👁️ View Certificate](https://drive.google.com/file/d/13LzGmqfcebscwjs4tg27pG1txOw4o7pU/preview)
-* **AWR399 Detecting and Responding to a Cyber Attack** — [👁️ View Certificate](https://drive.google.com/file/d/1NBE74q8c8jm55HClWwZuulyh7eckiptf/preview)
 * **AWR169 Introduction to Cyber Incident Management** — [👁️ View Certificate](https://drive.google.com/file/d/19tTEMxhd2Vs5J1lSRrzZYifmDPufDF2h/preview)
-* **PER371 Cybersecurity Incident Response and Management** — [👁️ View Certificate](https://drive.google.com/file/d/1tA4NGIcscTm0Ca2Td5vn18j0d5oxetbi/preview)
-* **MGT345 Disaster Management for Electric Power Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1oCQc10AGo0MdgcGCiYVEe22RWqUS_S9T/preview)
 * **AWR176 Disaster Recovery for Information Systems** — [👁️ View Certificate](https://drive.google.com/file/d/14JdEwiHzywsc59eNn1CpvVVN8OtN6prT/preview)
 * **AWR174 Cyber Ethics** — [👁️ View Certificate](https://drive.google.com/file/d/1Rr7_YHSy-QtxiWZMcy1L1hId95OMDDmm/preview)
 * **AWR177 Cybersecurity Risk Management** — [👁️ View Certificate](https://drive.google.com/file/d/1CmaNe0FTKrYDgd7uQYP0tMvg28r2Mg0v/preview)
+* **AWR376 Understanding Targeted Cyber Attacks** — [👁️ View Certificate](https://drive.google.com/file/d/1koIJq4QaPR063TjB-4WU9GP-5wuF5aTt/preview)
+* **AWR395 Cybersecurity in the Workplace** — [👁️ View Certificate](https://drive.google.com/file/d/13LzGmqfcebscwjs4tg27pG1txOw4o7pU/preview)
+* **AWR399 Detecting and Responding to a Cyber Attack** — [👁️ View Certificate](https://drive.google.com/file/d/1NBE74q8c8jm55HClWwZuulyh7eckiptf/preview)*
+* **AWR419 Disaster Resilience Essentials for Water and Wastewater Utilities** — [👁️ View Certificate(https://drive.google.com/file/d/19h750I3JDKTw8jFQEQpfS__O3Qb4XWLD/preview)
+* **MGT384 Preparing for Cyber Attacks and Incidents** — [👁️ View Certificate](https://drive.google.com/file/d/1_3E58tpGwXapaD0FwIPqWGyGpdIOCo4I/preview)
+* **MGT315 Conducting Risk Assessments for Critical Community Assets** — [👁️ View Certificate](https://drive.google.com/file/d/1WcpmOi3lN2AykGg0vN5_AjLhy4DfItW6/preview)
+* **MGT345 Disaster Management for Electric Power Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1oCQc10AGo0MdgcGCiYVEe22RWqUS_S9T/preview)
+* **MGT452 Physical and Cybersecurity for Critical Infrastructure** — [👁️ View Certificate](https://drive.google.com/file/d/1NNxN_fBoaLaQ66Ai_HZehxk5_LTa5vjb/preview)
+* **PER371 Cybersecurity Incident Response and Management** — [👁️ View Certificate](https://drive.google.com/file/d/1tA4NGIcscTm0Ca2Td5vn18j0d5oxetbi/preview)
+
+
 ---
 
 ## 🏛️ WBDG / FEMP / DOE
