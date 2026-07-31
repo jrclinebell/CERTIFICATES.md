@@ -35,8 +35,8 @@ A centralized showcase of my continuous education, compliance training, and crit
 
 ## ⛰️ FEMA / DHS
 
-* **IS-100 Introduction to Incident Command** — [👁️ View Certificate](https://drive.google.com/file/d/1y-Evyx39MWVTLrWYdr_5SbYddjNtquIL/preview)
-* **IS-200 Basic Incident Command System** — [👁️ View Certificate](https://drive.google.com/file/d/1QoaQla8gUbHWFYDMVNCWlSE_XqW3d47R/preview)
+* **IS-100 Introduction to Incident Command System, ICS-100** — [👁️ View Certificate](https://drive.google.com/file/d/1y-Evyx39MWVTLrWYdr_5SbYddjNtquIL/preview)
+* **IS-200 Basic Incident Command System for National Response, ICS-200** — [👁️ View Certificate](https://drive.google.com/file/d/1QoaQla8gUbHWFYDMVNCWlSE_XqW3d47R/preview)
 * **IS-700 An Introduction to the National Incident Management System** — [👁️ View Certificate](https://drive.google.com/file/d/1qm1MnK2AI5QfnSs_Wm9WIMRd2YhZUjbv/preview)
 
 ---
