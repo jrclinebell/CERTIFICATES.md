@@ -54,6 +54,7 @@ A centralized showcase of my continuous education, compliance training, and crit
 * **AWR408 Disaster Recovery Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/1mSyslpn71DEpQi_PiOF3PJ-bgrQscXuJ/preview)
 * **AWR419 Disaster Resilience Essentials for Water and Wastewater Utilities** — [👁️ View Certificate](https://drive.google.com/file/d/19h750I3JDKTw8jFQEQpfS__O3Qb4XWLD/preview)
 * **MGT315 Conducting Risk Assessments for Critical Community Assets** — [👁️ View Certificate](https://drive.google.com/file/d/1WcpmOi3lN2AykGg0vN5_AjLhy4DfItW6/preview)
+* **MTG343 Disaster Management for Water and Wastewater Utilities** — [👁️ View Certificate](https://drive.google.com/file/d/1qU722xcjqAzeAZ8v8gxLzHswRbawKbFL/preview)
 * **MGT345 Disaster Management for Electric Power Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1oCQc10AGo0MdgcGCiYVEe22RWqUS_S9T/preview)
 * **MGT384 Preparing for Cyber Attacks and Incidents** — [👁️ View Certificate](https://drive.google.com/file/d/1_3E58tpGwXapaD0FwIPqWGyGpdIOCo4I/preview)
 * **MGT452 Physical and Cybersecurity for Critical Infrastructure** — [👁️ View Certificate](https://drive.google.com/file/d/1NNxN_fBoaLaQ66Ai_HZehxk5_LTa5vjb/preview)
