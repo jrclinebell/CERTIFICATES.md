@@ -90,3 +90,4 @@ A centralized showcase of my continuous education, compliance training, and crit
 ## ⛰️ UH-NDPTC / FEMA / DHS
 
 * **AWR-322 Natural Disaster Awareness for Security Professionals** — [👁️ View Certificate](https://drive.google.com/file/d/18wFgw0Yn48U3fmqN1loVPEVX9NgP35F5/preview)
+* **PER-304 Social Media Platforms in Disaster Manage** — [👁️ View Certificate](https://drive.google.com/file/d/1ACZz2BauV8LqFmuVlCRUwJ_C9Huniy5v/preview)
