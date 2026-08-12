@@ -82,3 +82,11 @@ A centralized showcase of my continuous education, compliance training, and crit
 * **DOD Initial Orientation and Awareness Training** — [👁️ View Certificate](https://drive.google.com/file/d/1uEEc45SU7aHqRV_5JcAkxyj1tJc9ob4o/preview)
 * **Insider Threat Awareness** — [👁️ View Certificate](https://drive.google.com/file/d/16Z9E5DaZQlN94fy6YoF_O44lRReJCd0m/preview)
 * **OPSEC Awareness for Military Members, DoD Employees, and Contractors** — [👁️ View Certificate](https://drive.google.com/file/d/1s06Ybydyfxk76faKjgBHorJ_7GeoHi_f/preview)
+
+
+--
+
+
+## ⛰️ UH-NDPTC / FEMA / DHS
+
+* **AWR-322 Natural Disaster Awareness for Security Professionals** — [👁️ View Certificate](https://drive.google.com/file/d/18wFgw0Yn48U3fmqN1loVPEVX9NgP35F5/preview)
