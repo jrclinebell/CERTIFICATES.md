@@ -35,6 +35,7 @@ A centralized showcase of my continuous education, compliance training, and crit
 * **MGT315 Conducting Risk Assessments for Critical Community Assets** — [👁️ View Certificate](https://drive.google.com/file/d/1WcpmOi3lN2AykGg0vN5_AjLhy4DfItW6/preview)
 * **MTG343 Disaster Management for Water and Wastewater Utilities** — [👁️ View Certificate](https://drive.google.com/file/d/1qU722xcjqAzeAZ8v8gxLzHswRbawKbFL/preview)
 * **MGT345 Disaster Management for Electric Power Systems** — [👁️ View Certificate](https://drive.google.com/file/d/1oCQc10AGo0MdgcGCiYVEe22RWqUS_S9T/preview)
+* **MGT346 Emergency Operations Center (EOC) Operations and Planning for All-Hazards Events** — [👁️ View Certificate](https://drive.google.com/file/d/11FnrEw4O7Fg74eLZ-FBIt0LQH9NUA07T/preview)
 * **MGT384 Preparing for Cyber Attacks and Incidents** — [👁️ View Certificate](https://drive.google.com/file/d/1_3E58tpGwXapaD0FwIPqWGyGpdIOCo4I/preview)
 * **MGT452 Physical and Cybersecurity for Critical Infrastructure** — [👁️ View Certificate](https://drive.google.com/file/d/1NNxN_fBoaLaQ66Ai_HZehxk5_LTa5vjb/preview)
 * **MGT414 Critical Infrastructure Resilience and Community Lifelines** — [👁️ View Certificate](https://drive.google.com/file/d/1520EklHJCp7Ayf4KjIho-VvLsDoYozGS/preview)
